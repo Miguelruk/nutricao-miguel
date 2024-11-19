@@ -6,3 +6,7 @@ subtitulo.textContent = "Pacientes Cadastrados";
 
 var paciente = document.querySelector("#primeiro-paciente");
 console.log(paciente);
+
+
+
+
